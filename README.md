@@ -3,6 +3,11 @@
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
+## Download APK
+
+You can download the latest Android APK build here:
+
+[📦 Download APK](https://expo.dev/artifacts/eas/kWRBeuUXDePeokpTsz8vL7.apk)
 
 1. Install dependencies
 

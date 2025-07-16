@@ -1,7 +1,3 @@
-# Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project
-
 ## Get started
 ## Download APK
 
